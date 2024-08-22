@@ -1,6 +1,3 @@
-### **README Template:**
-
-```markdown
 # TAWBA: Senegal's Development Analysis and Prediction
 
 ## Overview
