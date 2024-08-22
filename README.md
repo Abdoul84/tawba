@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or feedback, please reach out to **Abdoul Mbaye** via [GitHub](https://github.com/Abdoul84).
+For any questions or feedback, please reach out to **Abdoul Top** via [GitHub](https://github.com/Abdoul84).
 
 ```
 
